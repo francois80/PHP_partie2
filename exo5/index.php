@@ -26,7 +26,7 @@ if(!empty($_POST['genre'])){
   }
   else {
   ?>
-    <p><h3><font color = "red">C'est un développeur !!!</font></h3></p>
+    <p><h3><font color = "green">C'est un développeur !!!</font></h3></p>
   <?php
   }
 }
